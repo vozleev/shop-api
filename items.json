@@ -3,8 +3,8 @@
 		{
 			"id": 0,
 			"name": "iPhone 15 Pro 256Gb, Titanium Blue",
-			"price": 1300,
-			"image": "https://vernik.me/upload/resize_cache/iblock/2ea/n346p7azqc2ai8xudg3p01js31f4o9a2/900_900_1/iphone%2015%20pro-3.jpg"
+			"price": 1300.00,
+			"imageUrl": "https://vernik.me/upload/resize_cache/iblock/2ea/n346p7azqc2ai8xudg3p01js31f4o9a2/900_900_1/iphone%2015%20pro-3.jpg"
 		}
 	]
 }
